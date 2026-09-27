@@ -1,0 +1,26 @@
+{
+  "name": "content-intelligence-agent-memory",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "npm@11.19.0",
+  "engines": {
+    "node": "24.21.0"
+  },
+  "scripts": {
+    "memory:smoke": "tsx src/memory/__tests__/hindsightRoundTrip.ts",
+    "memory:verify-adaptation": "tsx src/memory/__tests__/hindsightFeedbackAdaptation.ts",
+    "memory:verify-metrics-history": "tsx src/memory/__tests__/hindsightMetricHistory.ts",
+    "memory:test-versioning": "tsx src/memory/__tests__/memoryVersioning.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@vectorize-io/hindsight-client": "0.10.1",
+    "dotenv": "16.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "tsx": "^4.23.15",
+    "typescript": "7.0.2"
+  }
+}
