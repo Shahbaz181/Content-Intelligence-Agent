@@ -1,0 +1,650 @@
+[
+  {
+    "id": "post-01",
+    "brandId": "northstar-labs-demo",
+    "title": "AI agent evaluation loops",
+    "platform": "LinkedIn",
+    "format": "carousel",
+    "topic": "AI agent evaluation loops",
+    "publishedDate": "2026-06-02",
+    "campaignId": "campaign-01",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of ai agent evaluation loops, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 19,
+      "comments": 7,
+      "clicks": 31
+    }
+  },
+  {
+    "id": "post-02",
+    "brandId": "northstar-labs-demo",
+    "title": "A small-team automation launch",
+    "platform": "Blog",
+    "format": "text",
+    "topic": "A small-team automation launch",
+    "publishedDate": "2026-06-03",
+    "campaignId": "campaign-01",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of a small-team automation launch, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 24,
+      "comments": 9,
+      "clicks": 38
+    }
+  },
+  {
+    "id": "post-03",
+    "brandId": "northstar-labs-demo",
+    "title": "Developer time saved by workflow design",
+    "platform": "X",
+    "format": "case study",
+    "topic": "Developer time saved by workflow design",
+    "publishedDate": "2026-06-04",
+    "campaignId": "campaign-01",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about developer time saved by workflow design, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 21,
+      "comments": 8,
+      "clicks": 91
+    }
+  },
+  {
+    "id": "post-04",
+    "brandId": "northstar-labs-demo",
+    "title": "Product workflow announcement",
+    "platform": "LinkedIn",
+    "format": "tutorial",
+    "topic": "Product workflow announcement",
+    "publishedDate": "2026-06-09",
+    "campaignId": "campaign-02",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of product workflow announcement, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 17,
+      "comments": 5,
+      "clicks": 26
+    }
+  },
+  {
+    "id": "post-05",
+    "brandId": "northstar-labs-demo",
+    "title": "Tracing an agent request",
+    "platform": "Blog",
+    "format": "infographic",
+    "topic": "Tracing an agent request",
+    "publishedDate": "2026-06-10",
+    "campaignId": "campaign-02",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of tracing an agent request, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 28,
+      "comments": 11,
+      "clicks": 44
+    }
+  },
+  {
+    "id": "post-06",
+    "brandId": "northstar-labs-demo",
+    "title": "A founder lesson from an early launch",
+    "platform": "X",
+    "format": "short post",
+    "topic": "A founder lesson from an early launch",
+    "publishedDate": "2026-06-11",
+    "campaignId": "campaign-02",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about a founder lesson from an early launch, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 18,
+      "comments": 6,
+      "clicks": 76
+    }
+  },
+  {
+    "id": "post-07",
+    "brandId": "northstar-labs-demo",
+    "title": "API tool calling basics",
+    "platform": "LinkedIn",
+    "format": "technical breakdown",
+    "topic": "API tool calling basics",
+    "publishedDate": "2026-06-16",
+    "campaignId": "campaign-03",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of api tool calling basics, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 21,
+      "comments": 8,
+      "clicks": 34
+    }
+  },
+  {
+    "id": "post-08",
+    "brandId": "northstar-labs-demo",
+    "title": "New workflow feature overview",
+    "platform": "Blog",
+    "format": "carousel",
+    "topic": "New workflow feature overview",
+    "publishedDate": "2026-06-17",
+    "campaignId": "campaign-03",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of new workflow feature overview, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 25,
+      "comments": 6,
+      "clicks": 29
+    }
+  },
+  {
+    "id": "post-09",
+    "brandId": "northstar-labs-demo",
+    "title": "A practical prompt test",
+    "platform": "X",
+    "format": "text",
+    "topic": "A practical prompt test",
+    "publishedDate": "2026-06-18",
+    "campaignId": "campaign-03",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about a practical prompt test, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 26,
+      "comments": 10,
+      "clicks": 108
+    }
+  },
+  {
+    "id": "post-10",
+    "brandId": "northstar-labs-demo",
+    "title": "Product capability roundup",
+    "platform": "LinkedIn",
+    "format": "case study",
+    "topic": "Product capability roundup",
+    "publishedDate": "2026-06-23",
+    "campaignId": "campaign-04",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of product capability roundup, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 16,
+      "comments": 4,
+      "clicks": 22
+    }
+  },
+  {
+    "id": "post-11",
+    "brandId": "northstar-labs-demo",
+    "title": "Debugging a task handoff",
+    "platform": "Blog",
+    "format": "tutorial",
+    "topic": "Debugging a task handoff",
+    "publishedDate": "2026-06-24",
+    "campaignId": "campaign-04",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of debugging a task handoff, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 30,
+      "comments": 12,
+      "clicks": 49
+    }
+  },
+  {
+    "id": "post-12",
+    "brandId": "northstar-labs-demo",
+    "title": "A limited product offer",
+    "platform": "X",
+    "format": "infographic",
+    "topic": "A limited product offer",
+    "publishedDate": "2026-06-25",
+    "campaignId": "campaign-04",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about a limited product offer, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 15,
+      "comments": 5,
+      "clicks": 69
+    }
+  },
+  {
+    "id": "post-13",
+    "brandId": "northstar-labs-demo",
+    "title": "A step-by-step retrieval tutorial",
+    "platform": "LinkedIn",
+    "format": "technical breakdown",
+    "topic": "A step-by-step retrieval tutorial",
+    "publishedDate": "2026-07-02",
+    "campaignId": "campaign-05",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of a step-by-step retrieval tutorial, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 42,
+      "comments": 13,
+      "clicks": 37
+    }
+  },
+  {
+    "id": "post-14",
+    "brandId": "northstar-labs-demo",
+    "title": "Automation onboarding campaign",
+    "platform": "Blog",
+    "format": "carousel",
+    "topic": "Automation onboarding campaign",
+    "publishedDate": "2026-07-03",
+    "campaignId": "campaign-05",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of automation onboarding campaign, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 56,
+      "comments": 18,
+      "clicks": 45
+    }
+  },
+  {
+    "id": "post-15",
+    "brandId": "northstar-labs-demo",
+    "title": "Designing reliable agent memory",
+    "platform": "X",
+    "format": "text",
+    "topic": "Designing reliable agent memory",
+    "publishedDate": "2026-07-04",
+    "campaignId": "campaign-05",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about designing reliable agent memory, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 16,
+      "comments": 5,
+      "clicks": 63
+    }
+  },
+  {
+    "id": "post-16",
+    "brandId": "northstar-labs-demo",
+    "title": "Product education: memory controls",
+    "platform": "LinkedIn",
+    "format": "case study",
+    "topic": "Product education",
+    "publishedDate": "2026-07-09",
+    "campaignId": "campaign-06",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of product education, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 37,
+      "comments": 10,
+      "clicks": 32
+    }
+  },
+  {
+    "id": "post-17",
+    "brandId": "northstar-labs-demo",
+    "title": "API integration guide",
+    "platform": "Blog",
+    "format": "tutorial",
+    "topic": "API integration guide",
+    "publishedDate": "2026-07-10",
+    "campaignId": "campaign-06",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of api integration guide, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 62,
+      "comments": 21,
+      "clicks": 51
+    }
+  },
+  {
+    "id": "post-18",
+    "brandId": "northstar-labs-demo",
+    "title": "A customer-education offer",
+    "platform": "X",
+    "format": "infographic",
+    "topic": "A customer-education offer",
+    "publishedDate": "2026-07-11",
+    "campaignId": "campaign-06",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about a customer-education offer, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 14,
+      "comments": 4,
+      "clicks": 55
+    }
+  },
+  {
+    "id": "post-19",
+    "brandId": "northstar-labs-demo",
+    "title": "Tool selection architecture",
+    "platform": "LinkedIn",
+    "format": "short post",
+    "topic": "Tool selection architecture",
+    "publishedDate": "2026-07-16",
+    "campaignId": "campaign-07",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of tool selection architecture, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 48,
+      "comments": 15,
+      "clicks": 40
+    }
+  },
+  {
+    "id": "post-20",
+    "brandId": "northstar-labs-demo",
+    "title": "A product update for builders",
+    "platform": "Blog",
+    "format": "technical breakdown",
+    "topic": "A product update for builders",
+    "publishedDate": "2026-07-17",
+    "campaignId": "campaign-07",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of a product update for builders, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 53,
+      "comments": 17,
+      "clicks": 43
+    }
+  },
+  {
+    "id": "post-21",
+    "brandId": "northstar-labs-demo",
+    "title": "Tracing an agent failure",
+    "platform": "X",
+    "format": "carousel",
+    "topic": "Tracing an agent failure",
+    "publishedDate": "2026-07-18",
+    "campaignId": "campaign-07",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about tracing an agent failure, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 20,
+      "comments": 7,
+      "clicks": 82
+    }
+  },
+  {
+    "id": "post-22",
+    "brandId": "northstar-labs-demo",
+    "title": "Startup launch promotion",
+    "platform": "LinkedIn",
+    "format": "text",
+    "topic": "Startup launch promotion",
+    "publishedDate": "2026-07-23",
+    "campaignId": "campaign-08",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of startup launch promotion, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 32,
+      "comments": 8,
+      "clicks": 27
+    }
+  },
+  {
+    "id": "post-23",
+    "brandId": "northstar-labs-demo",
+    "title": "An evaluation checklist",
+    "platform": "Blog",
+    "format": "case study",
+    "topic": "An evaluation checklist",
+    "publishedDate": "2026-07-24",
+    "campaignId": "campaign-08",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of an evaluation checklist, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 67,
+      "comments": 23,
+      "clicks": 57
+    }
+  },
+  {
+    "id": "post-24",
+    "brandId": "northstar-labs-demo",
+    "title": "Feature announcement and demo",
+    "platform": "X",
+    "format": "tutorial",
+    "topic": "Feature announcement and demo",
+    "publishedDate": "2026-07-25",
+    "campaignId": "campaign-08",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about feature announcement and demo, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 12,
+      "comments": 3,
+      "clicks": 48
+    }
+  },
+  {
+    "id": "post-25",
+    "brandId": "northstar-labs-demo",
+    "title": "A complete agent implementation guide",
+    "platform": "LinkedIn",
+    "format": "short post",
+    "topic": "A complete agent implementation guide",
+    "publishedDate": "2026-08-02",
+    "campaignId": "campaign-09",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of a complete agent implementation guide, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 58,
+      "comments": 19,
+      "clicks": 42
+    }
+  },
+  {
+    "id": "post-26",
+    "brandId": "northstar-labs-demo",
+    "title": "Product launch: workflow templates",
+    "platform": "Blog",
+    "format": "technical breakdown",
+    "topic": "Product launch",
+    "publishedDate": "2026-08-03",
+    "campaignId": "campaign-09",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of product launch, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 76,
+      "comments": 25,
+      "clicks": 54
+    }
+  },
+  {
+    "id": "post-27",
+    "brandId": "northstar-labs-demo",
+    "title": "An API integration case study",
+    "platform": "X",
+    "format": "carousel",
+    "topic": "An API integration case study",
+    "publishedDate": "2026-08-04",
+    "campaignId": "campaign-09",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about an api integration case study, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 9,
+      "comments": 3,
+      "clicks": 34
+    }
+  },
+  {
+    "id": "post-28",
+    "brandId": "northstar-labs-demo",
+    "title": "A practical automation campaign",
+    "platform": "LinkedIn",
+    "format": "text",
+    "topic": "A practical automation campaign",
+    "publishedDate": "2026-08-09",
+    "campaignId": "campaign-10",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of a practical automation campaign, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 49,
+      "comments": 14,
+      "clicks": 36
+    }
+  },
+  {
+    "id": "post-29",
+    "brandId": "northstar-labs-demo",
+    "title": "How to measure retrieval quality",
+    "platform": "Blog",
+    "format": "case study",
+    "topic": "How to measure retrieval quality",
+    "publishedDate": "2026-08-10",
+    "campaignId": "campaign-10",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of how to measure retrieval quality, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 89,
+      "comments": 31,
+      "clicks": 68
+    }
+  },
+  {
+    "id": "post-30",
+    "brandId": "northstar-labs-demo",
+    "title": "Product announcement: audit view",
+    "platform": "X",
+    "format": "tutorial",
+    "topic": "Product announcement",
+    "publishedDate": "2026-08-11",
+    "campaignId": "campaign-10",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about product announcement, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 12,
+      "comments": 5,
+      "clicks": 43
+    }
+  },
+  {
+    "id": "post-31",
+    "brandId": "northstar-labs-demo",
+    "title": "A memory architecture breakdown",
+    "platform": "LinkedIn",
+    "format": "infographic",
+    "topic": "A memory architecture breakdown",
+    "publishedDate": "2026-08-16",
+    "campaignId": "campaign-11",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of a memory architecture breakdown, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 65,
+      "comments": 22,
+      "clicks": 47
+    }
+  },
+  {
+    "id": "post-32",
+    "brandId": "northstar-labs-demo",
+    "title": "A product education carousel",
+    "platform": "Blog",
+    "format": "short post",
+    "topic": "A product education carousel",
+    "publishedDate": "2026-08-17",
+    "campaignId": "campaign-11",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of a product education carousel, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 71,
+      "comments": 24,
+      "clicks": 50
+    }
+  },
+  {
+    "id": "post-33",
+    "brandId": "northstar-labs-demo",
+    "title": "A real-world task orchestration tutorial",
+    "platform": "X",
+    "format": "technical breakdown",
+    "topic": "A real-world task orchestration tutorial",
+    "publishedDate": "2026-08-18",
+    "campaignId": "campaign-11",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about a real-world task orchestration tutorial, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 7,
+      "comments": 2,
+      "clicks": 28
+    }
+  },
+  {
+    "id": "post-34",
+    "brandId": "northstar-labs-demo",
+    "title": "A seasonal product promotion",
+    "platform": "LinkedIn",
+    "format": "carousel",
+    "topic": "A seasonal product promotion",
+    "publishedDate": "2026-08-23",
+    "campaignId": "campaign-12",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of a seasonal product promotion, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 43,
+      "comments": 11,
+      "clicks": 31
+    }
+  },
+  {
+    "id": "post-35",
+    "brandId": "northstar-labs-demo",
+    "title": "Cost trade-offs in agent systems",
+    "platform": "Blog",
+    "format": "text",
+    "topic": "Cost trade-offs in agent systems",
+    "publishedDate": "2026-08-24",
+    "campaignId": "campaign-12",
+    "contentType": "technical_educational",
+    "summary": "Synthetic practical explanation of cost trade-offs in agent systems, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+    "goal": "educate and earn qualified saves",
+    "metrics": {
+      "saves": 94,
+      "comments": 34,
+      "clicks": 73
+    }
+  },
+  {
+    "id": "post-36",
+    "brandId": "northstar-labs-demo",
+    "title": "A founder note on useful content",
+    "platform": "X",
+    "format": "case study",
+    "topic": "A founder note on useful content",
+    "publishedDate": "2026-08-25",
+    "campaignId": "campaign-12",
+    "contentType": "promotional",
+    "summary": "Synthetic product communication about a founder note on useful content, with a clear offer and restrained claims.",
+    "goal": "introduce the product and attract relevant clicks",
+    "metrics": {
+      "saves": 15,
+      "comments": 6,
+      "clicks": 51
+    }
+  }
+]

@@ -25,6 +25,7 @@ import { recallForExplorer, recallForTimeline, recallForQuestion } from "./recal
 import {
   reflectBrandVoice, reflectTopTopics, reflectAudiencePreferences, reflectFailedStrategies, reflectContentGaps,
 } from "./reflect/mentalModels.js";
+import { reflectForPrompt } from "./reflect/customReflection.js";
 
 /** The only module backend and agent code should import from. */
 export const hindsightService = {
@@ -43,4 +44,5 @@ export const hindsightService = {
   reflectAudiencePreferences,
   reflectFailedStrategies,
   reflectContentGaps,
+  reflectForPrompt,
 };

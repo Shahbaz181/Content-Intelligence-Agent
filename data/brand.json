@@ -1,0 +1,42 @@
+{
+  "brandId": "northstar-labs-demo",
+  "name": "Northstar Labs",
+  "industry": "Synthetic developer tools and AI education",
+  "tone": [
+    "technical",
+    "clear",
+    "practical",
+    "confident",
+    "conversational"
+  ],
+  "thingsToAvoid": [
+    "clickbait",
+    "excessive hype",
+    "vague claims",
+    "unnecessary jargon",
+    "unsupported metrics"
+  ],
+  "audience": [
+    "software developers",
+    "technical founders",
+    "engineering teams",
+    "AI practitioners"
+  ],
+  "platforms": [
+    "LinkedIn",
+    "X",
+    "Blog"
+  ],
+  "goals": [
+    "teach useful implementation patterns",
+    "build trust",
+    "increase qualified saves",
+    "earn thoughtful engagement"
+  ],
+  "competitors": [
+    "Synthetic workflow platforms",
+    "Synthetic developer education tools"
+  ],
+  "updatedAt": "2026-06-01T09:00:00.000Z",
+  "synthetic": true
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "analytics-2026-06",
+    "brandId": "northstar-labs-demo",
+    "period": "2026-06",
+    "topThemes": [
+      "product launch",
+      "AI agents"
+    ],
+    "weakThemes": [
+      "feature-only announcements"
+    ],
+    "gaps": [
+      "hands-on implementation examples",
+      "API integration walkthroughs",
+      "architecture diagrams with trade-offs"
+    ]
+  },
+  {
+    "id": "analytics-2026-07",
+    "brandId": "northstar-labs-demo",
+    "period": "2026-07",
+    "topThemes": [
+      "implementation guides",
+      "AI agents",
+      "architecture"
+    ],
+    "weakThemes": [
+      "feature-only announcements"
+    ],
+    "gaps": [
+      "hands-on implementation examples",
+      "API integration walkthroughs",
+      "architecture diagrams with trade-offs"
+    ]
+  },
+  {
+    "id": "analytics-2026-08",
+    "brandId": "northstar-labs-demo",
+    "period": "2026-08",
+    "topThemes": [
+      "implementation guides",
+      "AI agents",
+      "architecture"
+    ],
+    "weakThemes": [
+      "broad product promotion",
+      "feature-only announcements"
+    ],
+    "gaps": [
+      "hands-on implementation examples",
+      "API integration walkthroughs",
+      "architecture diagrams with trade-offs"
+    ]
+  }
+]

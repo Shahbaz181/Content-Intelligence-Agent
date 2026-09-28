@@ -1,0 +1,1698 @@
+{
+  "version": 2,
+  "brands": {
+    "default": {
+      "brandId": "default",
+      "name": "Northstar Studio",
+      "industry": "Creative technology",
+      "tone": [
+        "clear",
+        "curious",
+        "practical"
+      ],
+      "audience": [
+        "independent creators",
+        "small marketing teams"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Instagram"
+      ],
+      "goals": [
+        "Grow engaged audience",
+        "Teach useful workflows"
+      ],
+      "competitors": [
+        "Creator tools"
+      ],
+      "thingsToAvoid": [
+        "Clickbait",
+        "Unsupported claims"
+      ],
+      "updatedAt": "2026-09-27T20:25:11.565Z",
+      "synthetic": true
+    },
+    "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8": {
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "Northstar Labs",
+      "industry": "Synthetic developer tools and AI education",
+      "tone": [
+        "technical",
+        "clear",
+        "practical",
+        "confident",
+        "conversational"
+      ],
+      "thingsToAvoid": [
+        "clickbait",
+        "excessive hype",
+        "vague claims",
+        "unnecessary jargon",
+        "unsupported metrics"
+      ],
+      "audience": [
+        "software developers",
+        "technical founders",
+        "engineering teams",
+        "AI practitioners"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "X",
+        "Blog"
+      ],
+      "goals": [
+        "teach useful implementation patterns",
+        "build trust",
+        "increase qualified saves",
+        "earn thoughtful engagement"
+      ],
+      "competitors": [
+        "Synthetic workflow platforms",
+        "Synthetic developer education tools"
+      ],
+      "updatedAt": "2026-06-01T09:00:00.000Z",
+      "synthetic": true
+    }
+  },
+  "content": [
+    {
+      "contentId": "demo-1",
+      "brandId": "default",
+      "title": "A practical guide to AI workflows",
+      "platform": "LinkedIn",
+      "format": "Carousel",
+      "date": "2026-01-18",
+      "text": "Synthetic sample used only to demonstrate the dashboard and analytics views.",
+      "metrics": {
+        "saves": 92,
+        "comments": 28,
+        "clicks": 44
+      },
+      "performance": "164 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "demo-2",
+      "brandId": "default",
+      "title": "Behind the scenes: building with intention",
+      "platform": "Instagram",
+      "format": "Reel",
+      "date": "2026-02-12",
+      "text": "Synthetic sample used only to demonstrate the dashboard and analytics views.",
+      "metrics": {
+        "saves": 68,
+        "comments": 19,
+        "clicks": 31
+      },
+      "performance": "118 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "demo-3",
+      "brandId": "default",
+      "title": "Five prompts for clearer campaign briefs",
+      "platform": "LinkedIn",
+      "format": "Text",
+      "date": "2026-03-08",
+      "text": "Synthetic sample used only to demonstrate the dashboard and analytics views.",
+      "metrics": {
+        "saves": 113,
+        "comments": 42,
+        "clicks": 57
+      },
+      "performance": "212 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "demo-4",
+      "brandId": "default",
+      "title": "How we plan a week of useful content",
+      "platform": "Instagram",
+      "format": "Carousel",
+      "date": "2026-04-17",
+      "text": "Synthetic sample used only to demonstrate the dashboard and analytics views.",
+      "metrics": {
+        "saves": 86,
+        "comments": 35,
+        "clicks": 48
+      },
+      "performance": "169 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "demo-5",
+      "brandId": "default",
+      "title": "The small-team guide to content experiments",
+      "platform": "LinkedIn",
+      "format": "Carousel",
+      "date": "2026-05-21",
+      "text": "Synthetic sample used only to demonstrate the dashboard and analytics views.",
+      "metrics": {
+        "saves": 147,
+        "comments": 51,
+        "clicks": 73
+      },
+      "performance": "271 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "demo-6",
+      "brandId": "default",
+      "title": "What our community wants to learn next",
+      "platform": "Instagram",
+      "format": "Story",
+      "date": "2026-06-14",
+      "text": "Synthetic sample used only to demonstrate the dashboard and analytics views.",
+      "metrics": {
+        "saves": 75,
+        "comments": 64,
+        "clicks": 29
+      },
+      "performance": "168 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-01",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "AI agent evaluation loops",
+      "platform": "LinkedIn",
+      "format": "carousel",
+      "topic": "AI agent evaluation loops",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-01",
+      "date": "2026-06-02",
+      "text": "Synthetic practical explanation of ai agent evaluation loops, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 19,
+        "comments": 7,
+        "clicks": 31
+      },
+      "metricsMeasuredAt": "2026-06-02T20:00:00.000Z",
+      "performance": "57 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-02",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A small-team automation launch",
+      "platform": "Blog",
+      "format": "text",
+      "topic": "A small-team automation launch",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-01",
+      "date": "2026-06-03",
+      "text": "Synthetic practical explanation of a small-team automation launch, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 24,
+        "comments": 9,
+        "clicks": 38
+      },
+      "metricsMeasuredAt": "2026-06-03T20:00:00.000Z",
+      "performance": "71 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-03",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Developer time saved by workflow design",
+      "platform": "X",
+      "format": "case study",
+      "topic": "Developer time saved by workflow design",
+      "contentType": "promotional",
+      "campaignId": "campaign-01",
+      "date": "2026-06-04",
+      "text": "Synthetic product communication about developer time saved by workflow design, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 21,
+        "comments": 8,
+        "clicks": 91
+      },
+      "metricsMeasuredAt": "2026-06-04T20:00:00.000Z",
+      "performance": "120 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-04",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Product workflow announcement",
+      "platform": "LinkedIn",
+      "format": "tutorial",
+      "topic": "Product workflow announcement",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-02",
+      "date": "2026-06-09",
+      "text": "Synthetic practical explanation of product workflow announcement, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 17,
+        "comments": 5,
+        "clicks": 26
+      },
+      "metricsMeasuredAt": "2026-06-09T20:00:00.000Z",
+      "performance": "48 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-05",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Tracing an agent request",
+      "platform": "Blog",
+      "format": "infographic",
+      "topic": "Tracing an agent request",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-02",
+      "date": "2026-06-10",
+      "text": "Synthetic practical explanation of tracing an agent request, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 28,
+        "comments": 11,
+        "clicks": 44
+      },
+      "metricsMeasuredAt": "2026-06-10T20:00:00.000Z",
+      "performance": "83 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-06",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A founder lesson from an early launch",
+      "platform": "X",
+      "format": "short post",
+      "topic": "A founder lesson from an early launch",
+      "contentType": "promotional",
+      "campaignId": "campaign-02",
+      "date": "2026-06-11",
+      "text": "Synthetic product communication about a founder lesson from an early launch, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 18,
+        "comments": 6,
+        "clicks": 76
+      },
+      "metricsMeasuredAt": "2026-06-11T20:00:00.000Z",
+      "performance": "100 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-07",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "API tool calling basics",
+      "platform": "LinkedIn",
+      "format": "technical breakdown",
+      "topic": "API tool calling basics",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-03",
+      "date": "2026-06-16",
+      "text": "Synthetic practical explanation of api tool calling basics, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 21,
+        "comments": 8,
+        "clicks": 34
+      },
+      "metricsMeasuredAt": "2026-06-16T20:00:00.000Z",
+      "performance": "63 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-08",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "New workflow feature overview",
+      "platform": "Blog",
+      "format": "carousel",
+      "topic": "New workflow feature overview",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-03",
+      "date": "2026-06-17",
+      "text": "Synthetic practical explanation of new workflow feature overview, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 25,
+        "comments": 6,
+        "clicks": 29
+      },
+      "metricsMeasuredAt": "2026-06-17T20:00:00.000Z",
+      "performance": "60 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-09",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A practical prompt test",
+      "platform": "X",
+      "format": "text",
+      "topic": "A practical prompt test",
+      "contentType": "promotional",
+      "campaignId": "campaign-03",
+      "date": "2026-06-18",
+      "text": "Synthetic product communication about a practical prompt test, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 26,
+        "comments": 10,
+        "clicks": 108
+      },
+      "metricsMeasuredAt": "2026-06-18T20:00:00.000Z",
+      "performance": "144 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-10",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Product capability roundup",
+      "platform": "LinkedIn",
+      "format": "case study",
+      "topic": "Product capability roundup",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-04",
+      "date": "2026-06-23",
+      "text": "Synthetic practical explanation of product capability roundup, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 16,
+        "comments": 4,
+        "clicks": 22
+      },
+      "metricsMeasuredAt": "2026-06-23T20:00:00.000Z",
+      "performance": "42 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-11",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Debugging a task handoff",
+      "platform": "Blog",
+      "format": "tutorial",
+      "topic": "Debugging a task handoff",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-04",
+      "date": "2026-06-24",
+      "text": "Synthetic practical explanation of debugging a task handoff, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 30,
+        "comments": 12,
+        "clicks": 49
+      },
+      "metricsMeasuredAt": "2026-06-24T20:00:00.000Z",
+      "performance": "91 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-12",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A limited product offer",
+      "platform": "X",
+      "format": "infographic",
+      "topic": "A limited product offer",
+      "contentType": "promotional",
+      "campaignId": "campaign-04",
+      "date": "2026-06-25",
+      "text": "Synthetic product communication about a limited product offer, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 15,
+        "comments": 5,
+        "clicks": 69
+      },
+      "metricsMeasuredAt": "2026-06-25T20:00:00.000Z",
+      "performance": "89 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-13",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A step-by-step retrieval tutorial",
+      "platform": "LinkedIn",
+      "format": "technical breakdown",
+      "topic": "A step-by-step retrieval tutorial",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-05",
+      "date": "2026-07-02",
+      "text": "Synthetic practical explanation of a step-by-step retrieval tutorial, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 42,
+        "comments": 13,
+        "clicks": 37
+      },
+      "metricsMeasuredAt": "2026-07-02T20:00:00.000Z",
+      "performance": "92 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-14",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Automation onboarding campaign",
+      "platform": "Blog",
+      "format": "carousel",
+      "topic": "Automation onboarding campaign",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-05",
+      "date": "2026-07-03",
+      "text": "Synthetic practical explanation of automation onboarding campaign, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 56,
+        "comments": 18,
+        "clicks": 45
+      },
+      "metricsMeasuredAt": "2026-07-03T20:00:00.000Z",
+      "performance": "119 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-15",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Designing reliable agent memory",
+      "platform": "X",
+      "format": "text",
+      "topic": "Designing reliable agent memory",
+      "contentType": "promotional",
+      "campaignId": "campaign-05",
+      "date": "2026-07-04",
+      "text": "Synthetic product communication about designing reliable agent memory, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 16,
+        "comments": 5,
+        "clicks": 63
+      },
+      "metricsMeasuredAt": "2026-07-04T20:00:00.000Z",
+      "performance": "84 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-16",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Product education: memory controls",
+      "platform": "LinkedIn",
+      "format": "case study",
+      "topic": "Product education",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-06",
+      "date": "2026-07-09",
+      "text": "Synthetic practical explanation of product education, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 37,
+        "comments": 10,
+        "clicks": 32
+      },
+      "metricsMeasuredAt": "2026-07-09T20:00:00.000Z",
+      "performance": "79 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-17",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "API integration guide",
+      "platform": "Blog",
+      "format": "tutorial",
+      "topic": "API integration guide",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-06",
+      "date": "2026-07-10",
+      "text": "Synthetic practical explanation of api integration guide, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 62,
+        "comments": 21,
+        "clicks": 51
+      },
+      "metricsMeasuredAt": "2026-07-10T20:00:00.000Z",
+      "performance": "134 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-18",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A customer-education offer",
+      "platform": "X",
+      "format": "infographic",
+      "topic": "A customer-education offer",
+      "contentType": "promotional",
+      "campaignId": "campaign-06",
+      "date": "2026-07-11",
+      "text": "Synthetic product communication about a customer-education offer, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 14,
+        "comments": 4,
+        "clicks": 55
+      },
+      "metricsMeasuredAt": "2026-07-11T20:00:00.000Z",
+      "performance": "73 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-19",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Tool selection architecture",
+      "platform": "LinkedIn",
+      "format": "short post",
+      "topic": "Tool selection architecture",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-07",
+      "date": "2026-07-16",
+      "text": "Synthetic practical explanation of tool selection architecture, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 48,
+        "comments": 15,
+        "clicks": 40
+      },
+      "metricsMeasuredAt": "2026-07-16T20:00:00.000Z",
+      "performance": "103 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-20",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A product update for builders",
+      "platform": "Blog",
+      "format": "technical breakdown",
+      "topic": "A product update for builders",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-07",
+      "date": "2026-07-17",
+      "text": "Synthetic practical explanation of a product update for builders, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 53,
+        "comments": 17,
+        "clicks": 43
+      },
+      "metricsMeasuredAt": "2026-07-17T20:00:00.000Z",
+      "performance": "113 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-21",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Tracing an agent failure",
+      "platform": "X",
+      "format": "carousel",
+      "topic": "Tracing an agent failure",
+      "contentType": "promotional",
+      "campaignId": "campaign-07",
+      "date": "2026-07-18",
+      "text": "Synthetic product communication about tracing an agent failure, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 20,
+        "comments": 7,
+        "clicks": 82
+      },
+      "metricsMeasuredAt": "2026-07-18T20:00:00.000Z",
+      "performance": "109 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-22",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Startup launch promotion",
+      "platform": "LinkedIn",
+      "format": "text",
+      "topic": "Startup launch promotion",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-08",
+      "date": "2026-07-23",
+      "text": "Synthetic practical explanation of startup launch promotion, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 32,
+        "comments": 8,
+        "clicks": 27
+      },
+      "metricsMeasuredAt": "2026-07-23T20:00:00.000Z",
+      "performance": "67 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-23",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "An evaluation checklist",
+      "platform": "Blog",
+      "format": "case study",
+      "topic": "An evaluation checklist",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-08",
+      "date": "2026-07-24",
+      "text": "Synthetic practical explanation of an evaluation checklist, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 67,
+        "comments": 23,
+        "clicks": 57
+      },
+      "metricsMeasuredAt": "2026-07-24T20:00:00.000Z",
+      "performance": "147 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-24",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Feature announcement and demo",
+      "platform": "X",
+      "format": "tutorial",
+      "topic": "Feature announcement and demo",
+      "contentType": "promotional",
+      "campaignId": "campaign-08",
+      "date": "2026-07-25",
+      "text": "Synthetic product communication about feature announcement and demo, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 12,
+        "comments": 3,
+        "clicks": 48
+      },
+      "metricsMeasuredAt": "2026-07-25T20:00:00.000Z",
+      "performance": "63 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-25",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A complete agent implementation guide",
+      "platform": "LinkedIn",
+      "format": "short post",
+      "topic": "A complete agent implementation guide",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-09",
+      "date": "2026-08-02",
+      "text": "Synthetic practical explanation of a complete agent implementation guide, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 58,
+        "comments": 19,
+        "clicks": 42
+      },
+      "metricsMeasuredAt": "2026-08-02T20:00:00.000Z",
+      "performance": "119 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-26",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Product launch: workflow templates",
+      "platform": "Blog",
+      "format": "technical breakdown",
+      "topic": "Product launch",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-09",
+      "date": "2026-08-03",
+      "text": "Synthetic practical explanation of product launch, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 76,
+        "comments": 25,
+        "clicks": 54
+      },
+      "metricsMeasuredAt": "2026-08-03T20:00:00.000Z",
+      "performance": "155 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-27",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "An API integration case study",
+      "platform": "X",
+      "format": "carousel",
+      "topic": "An API integration case study",
+      "contentType": "promotional",
+      "campaignId": "campaign-09",
+      "date": "2026-08-04",
+      "text": "Synthetic product communication about an api integration case study, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 9,
+        "comments": 3,
+        "clicks": 34
+      },
+      "metricsMeasuredAt": "2026-08-04T20:00:00.000Z",
+      "performance": "46 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-28",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A practical automation campaign",
+      "platform": "LinkedIn",
+      "format": "text",
+      "topic": "A practical automation campaign",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-10",
+      "date": "2026-08-09",
+      "text": "Synthetic practical explanation of a practical automation campaign, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 49,
+        "comments": 14,
+        "clicks": 36
+      },
+      "metricsMeasuredAt": "2026-08-09T20:00:00.000Z",
+      "performance": "99 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-29",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "How to measure retrieval quality",
+      "platform": "Blog",
+      "format": "case study",
+      "topic": "How to measure retrieval quality",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-10",
+      "date": "2026-08-10",
+      "text": "Synthetic practical explanation of how to measure retrieval quality, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 89,
+        "comments": 31,
+        "clicks": 68
+      },
+      "metricsMeasuredAt": "2026-08-10T20:00:00.000Z",
+      "performance": "188 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-30",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Product announcement: audit view",
+      "platform": "X",
+      "format": "tutorial",
+      "topic": "Product announcement",
+      "contentType": "promotional",
+      "campaignId": "campaign-10",
+      "date": "2026-08-11",
+      "text": "Synthetic product communication about product announcement, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 12,
+        "comments": 5,
+        "clicks": 43
+      },
+      "metricsMeasuredAt": "2026-08-11T20:00:00.000Z",
+      "performance": "60 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-31",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A memory architecture breakdown",
+      "platform": "LinkedIn",
+      "format": "infographic",
+      "topic": "A memory architecture breakdown",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-11",
+      "date": "2026-08-16",
+      "text": "Synthetic practical explanation of a memory architecture breakdown, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 65,
+        "comments": 22,
+        "clicks": 47
+      },
+      "metricsMeasuredAt": "2026-08-16T20:00:00.000Z",
+      "performance": "134 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-32",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A product education carousel",
+      "platform": "Blog",
+      "format": "short post",
+      "topic": "A product education carousel",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-11",
+      "date": "2026-08-17",
+      "text": "Synthetic practical explanation of a product education carousel, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 71,
+        "comments": 24,
+        "clicks": 50
+      },
+      "metricsMeasuredAt": "2026-08-17T20:00:00.000Z",
+      "performance": "145 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-33",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A real-world task orchestration tutorial",
+      "platform": "X",
+      "format": "technical breakdown",
+      "topic": "A real-world task orchestration tutorial",
+      "contentType": "promotional",
+      "campaignId": "campaign-11",
+      "date": "2026-08-18",
+      "text": "Synthetic product communication about a real-world task orchestration tutorial, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 7,
+        "comments": 2,
+        "clicks": 28
+      },
+      "metricsMeasuredAt": "2026-08-18T20:00:00.000Z",
+      "performance": "37 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-34",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A seasonal product promotion",
+      "platform": "LinkedIn",
+      "format": "carousel",
+      "topic": "A seasonal product promotion",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-12",
+      "date": "2026-08-23",
+      "text": "Synthetic practical explanation of a seasonal product promotion, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 43,
+        "comments": 11,
+        "clicks": 31
+      },
+      "metricsMeasuredAt": "2026-08-23T20:00:00.000Z",
+      "performance": "85 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-35",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "Cost trade-offs in agent systems",
+      "platform": "Blog",
+      "format": "text",
+      "topic": "Cost trade-offs in agent systems",
+      "contentType": "technical_educational",
+      "campaignId": "campaign-12",
+      "date": "2026-08-24",
+      "text": "Synthetic practical explanation of cost trade-offs in agent systems, including a concrete workflow, implementation trade-offs, and a useful takeaway for developers.",
+      "metrics": {
+        "saves": 94,
+        "comments": 34,
+        "clicks": 73
+      },
+      "metricsMeasuredAt": "2026-08-24T20:00:00.000Z",
+      "performance": "201 tracked actions",
+      "synthetic": true
+    },
+    {
+      "contentId": "post-36",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "title": "A founder note on useful content",
+      "platform": "X",
+      "format": "case study",
+      "topic": "A founder note on useful content",
+      "contentType": "promotional",
+      "campaignId": "campaign-12",
+      "date": "2026-08-25",
+      "text": "Synthetic product communication about a founder note on useful content, with a clear offer and restrained claims.",
+      "metrics": {
+        "saves": 15,
+        "comments": 6,
+        "clicks": 51
+      },
+      "metricsMeasuredAt": "2026-08-25T20:00:00.000Z",
+      "performance": "72 tracked actions",
+      "synthetic": true
+    }
+  ],
+  "plans": {},
+  "campaigns": [
+    {
+      "id": "campaign-01",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "AI Agent Foundations",
+      "description": "Synthetic 2026-06 campaign exploring ai agent foundations across educational and product content.",
+      "startDate": "2026-06-02",
+      "endDate": "2026-06-04",
+      "result": "3 posts recorded 64 saves, 24 comments, and 160 clicks."
+    },
+    {
+      "id": "campaign-02",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "Developer Workflow Notes",
+      "description": "Synthetic 2026-06 campaign exploring developer workflow notes across educational and product content.",
+      "startDate": "2026-06-09",
+      "endDate": "2026-06-11",
+      "result": "3 posts recorded 63 saves, 22 comments, and 146 clicks."
+    },
+    {
+      "id": "campaign-03",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "Product Education Sprint",
+      "description": "Synthetic 2026-06 campaign exploring product education sprint across educational and product content.",
+      "startDate": "2026-06-16",
+      "endDate": "2026-06-18",
+      "result": "3 posts recorded 72 saves, 24 comments, and 171 clicks."
+    },
+    {
+      "id": "campaign-04",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "Founder Lessons",
+      "description": "Synthetic 2026-06 campaign exploring founder lessons across educational and product content.",
+      "startDate": "2026-06-23",
+      "endDate": "2026-06-25",
+      "result": "3 posts recorded 61 saves, 21 comments, and 140 clicks."
+    },
+    {
+      "id": "campaign-05",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "Implementation Month",
+      "description": "Synthetic 2026-07 campaign exploring implementation month across educational and product content.",
+      "startDate": "2026-07-02",
+      "endDate": "2026-07-04",
+      "result": "3 posts recorded 114 saves, 36 comments, and 145 clicks."
+    },
+    {
+      "id": "campaign-06",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "API Architecture Series",
+      "description": "Synthetic 2026-07 campaign exploring api architecture series across educational and product content.",
+      "startDate": "2026-07-09",
+      "endDate": "2026-07-11",
+      "result": "3 posts recorded 113 saves, 35 comments, and 138 clicks."
+    },
+    {
+      "id": "campaign-07",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "Automation in Practice",
+      "description": "Synthetic 2026-07 campaign exploring automation in practice across educational and product content.",
+      "startDate": "2026-07-16",
+      "endDate": "2026-07-18",
+      "result": "3 posts recorded 121 saves, 39 comments, and 165 clicks."
+    },
+    {
+      "id": "campaign-08",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "Community Learning Lab",
+      "description": "Synthetic 2026-07 campaign exploring community learning lab across educational and product content.",
+      "startDate": "2026-07-23",
+      "endDate": "2026-07-25",
+      "result": "3 posts recorded 111 saves, 34 comments, and 132 clicks."
+    },
+    {
+      "id": "campaign-09",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "Technical Deep Dives",
+      "description": "Synthetic 2026-08 campaign exploring technical deep dives across educational and product content.",
+      "startDate": "2026-08-02",
+      "endDate": "2026-08-04",
+      "result": "3 posts recorded 143 saves, 47 comments, and 130 clicks."
+    },
+    {
+      "id": "campaign-10",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "Product Update Cycle",
+      "description": "Synthetic 2026-08 campaign exploring product update cycle across educational and product content.",
+      "startDate": "2026-08-09",
+      "endDate": "2026-08-11",
+      "result": "3 posts recorded 150 saves, 50 comments, and 147 clicks."
+    },
+    {
+      "id": "campaign-11",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "Practical AI Playbook",
+      "description": "Synthetic 2026-08 campaign exploring practical ai playbook across educational and product content.",
+      "startDate": "2026-08-16",
+      "endDate": "2026-08-18",
+      "result": "3 posts recorded 143 saves, 48 comments, and 125 clicks."
+    },
+    {
+      "id": "campaign-12",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "name": "Build in Public Review",
+      "description": "Synthetic 2026-08 campaign exploring build in public review across educational and product content.",
+      "startDate": "2026-08-23",
+      "endDate": "2026-08-25",
+      "result": "3 posts recorded 152 saves, 51 comments, and 155 clicks."
+    }
+  ],
+  "comments": [
+    {
+      "id": "comment-01",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Can you show how this works in a real project? A concrete example would help our team decide what to try.",
+      "themes": [
+        "practical_examples",
+        "implementation_details"
+      ],
+      "date": "2026-06-03",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-02",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Can you break the implementation into a few steps?",
+      "themes": [
+        "implementation_details",
+        "tutorial_requests"
+      ],
+      "date": "2026-06-06",
+      "source": "Community"
+    },
+    {
+      "id": "comment-03",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "The concept is useful; a runnable tutorial would be even better.",
+      "themes": [
+        "tutorial_requests",
+        "implementation_details"
+      ],
+      "date": "2026-06-09",
+      "source": "X"
+    },
+    {
+      "id": "comment-04",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "We need more practical examples for engineering teams.",
+      "themes": [
+        "practical_examples"
+      ],
+      "date": "2026-06-12",
+      "source": "Website"
+    },
+    {
+      "id": "comment-05",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Please include a realistic cost breakdown next time.",
+      "themes": [
+        "cost_questions",
+        "practical_examples"
+      ],
+      "date": "2026-06-15",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-06",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "We need more practical examples for engineering teams.",
+      "themes": [
+        "practical_examples"
+      ],
+      "date": "2026-06-18",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-07",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Please include a realistic cost breakdown next time.",
+      "themes": [
+        "cost_questions",
+        "practical_examples"
+      ],
+      "date": "2026-06-21",
+      "source": "Community"
+    },
+    {
+      "id": "comment-08",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "A short tutorial with the setup steps would help.",
+      "themes": [
+        "tutorial_requests",
+        "implementation_details"
+      ],
+      "date": "2026-06-24",
+      "source": "X"
+    },
+    {
+      "id": "comment-09",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "How much setup is needed before the first useful result?",
+      "themes": [
+        "integration_questions",
+        "implementation_details"
+      ],
+      "date": "2026-06-27",
+      "source": "Website"
+    },
+    {
+      "id": "comment-10",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Could you explain how this connects to an existing API? A concrete example would help our team decide what to try.",
+      "themes": [
+        "integration_questions"
+      ],
+      "date": "2026-06-05",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-11",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "How much setup is needed before the first useful result?",
+      "themes": [
+        "integration_questions",
+        "implementation_details"
+      ],
+      "date": "2026-06-08",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-12",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Could you explain how this connects to an existing API?",
+      "themes": [
+        "integration_questions"
+      ],
+      "date": "2026-06-11",
+      "source": "Community"
+    },
+    {
+      "id": "comment-13",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "A worked example would make the idea easier to apply.",
+      "themes": [
+        "practical_examples",
+        "tutorial_requests"
+      ],
+      "date": "2026-06-14",
+      "source": "X"
+    },
+    {
+      "id": "comment-14",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "How should we think about the cost at low volume?",
+      "themes": [
+        "cost_questions"
+      ],
+      "date": "2026-06-17",
+      "source": "Website"
+    },
+    {
+      "id": "comment-15",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Could you compare the trade-offs with a simpler approach?",
+      "themes": [
+        "architecture_explanations"
+      ],
+      "date": "2026-06-20",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-16",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "How should we think about the cost at low volume?",
+      "themes": [
+        "cost_questions"
+      ],
+      "date": "2026-06-23",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-17",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Could you compare the trade-offs with a simpler approach?",
+      "themes": [
+        "architecture_explanations"
+      ],
+      "date": "2026-06-26",
+      "source": "Community"
+    },
+    {
+      "id": "comment-18",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Is there a small implementation example we can try?",
+      "themes": [
+        "practical_examples",
+        "implementation_details"
+      ],
+      "date": "2026-06-04",
+      "source": "X"
+    },
+    {
+      "id": "comment-19",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Does this integrate with tools we already use? A concrete example would help our team decide what to try.",
+      "themes": [
+        "integration_questions"
+      ],
+      "date": "2026-06-07",
+      "source": "Website"
+    },
+    {
+      "id": "comment-20",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Would you share the architecture behind this flow?",
+      "themes": [
+        "architecture_explanations"
+      ],
+      "date": "2026-06-10",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-21",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Does this integrate with tools we already use?",
+      "themes": [
+        "integration_questions"
+      ],
+      "date": "2026-07-13",
+      "source": "X"
+    },
+    {
+      "id": "comment-22",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Would you share the architecture behind this flow?",
+      "themes": [
+        "architecture_explanations"
+      ],
+      "date": "2026-07-16",
+      "source": "Website"
+    },
+    {
+      "id": "comment-23",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "What changes when this runs in a production system?",
+      "themes": [
+        "architecture_explanations",
+        "practical_examples"
+      ],
+      "date": "2026-07-19",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-24",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Can you show how this works in a real project?",
+      "themes": [
+        "practical_examples",
+        "implementation_details"
+      ],
+      "date": "2026-07-22",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-25",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Can you break the implementation into a few steps?",
+      "themes": [
+        "implementation_details",
+        "tutorial_requests"
+      ],
+      "date": "2026-07-25",
+      "source": "Community"
+    },
+    {
+      "id": "comment-26",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Can you show how this works in a real project?",
+      "themes": [
+        "practical_examples",
+        "implementation_details"
+      ],
+      "date": "2026-07-03",
+      "source": "X"
+    },
+    {
+      "id": "comment-27",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Can you break the implementation into a few steps?",
+      "themes": [
+        "implementation_details",
+        "tutorial_requests"
+      ],
+      "date": "2026-07-06",
+      "source": "Website"
+    },
+    {
+      "id": "comment-28",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "The concept is useful; a runnable tutorial would be even better. A concrete example would help our team decide what to try.",
+      "themes": [
+        "tutorial_requests",
+        "implementation_details"
+      ],
+      "date": "2026-07-09",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-29",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "We need more practical examples for engineering teams.",
+      "themes": [
+        "practical_examples"
+      ],
+      "date": "2026-07-12",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-30",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Please include a realistic cost breakdown next time.",
+      "themes": [
+        "cost_questions",
+        "practical_examples"
+      ],
+      "date": "2026-07-15",
+      "source": "Community"
+    },
+    {
+      "id": "comment-31",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "We need more practical examples for engineering teams.",
+      "themes": [
+        "practical_examples"
+      ],
+      "date": "2026-07-18",
+      "source": "X"
+    },
+    {
+      "id": "comment-32",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Please include a realistic cost breakdown next time.",
+      "themes": [
+        "cost_questions",
+        "practical_examples"
+      ],
+      "date": "2026-07-21",
+      "source": "Website"
+    },
+    {
+      "id": "comment-33",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "A short tutorial with the setup steps would help.",
+      "themes": [
+        "tutorial_requests",
+        "implementation_details"
+      ],
+      "date": "2026-07-24",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-34",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "How much setup is needed before the first useful result?",
+      "themes": [
+        "integration_questions",
+        "implementation_details"
+      ],
+      "date": "2026-07-27",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-35",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Could you explain how this connects to an existing API?",
+      "themes": [
+        "integration_questions"
+      ],
+      "date": "2026-07-05",
+      "source": "Community"
+    },
+    {
+      "id": "comment-36",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "How much setup is needed before the first useful result?",
+      "themes": [
+        "integration_questions",
+        "implementation_details"
+      ],
+      "date": "2026-07-08",
+      "source": "X"
+    },
+    {
+      "id": "comment-37",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Could you explain how this connects to an existing API? A concrete example would help our team decide what to try.",
+      "themes": [
+        "integration_questions"
+      ],
+      "date": "2026-07-11",
+      "source": "Website"
+    },
+    {
+      "id": "comment-38",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "A worked example would make the idea easier to apply.",
+      "themes": [
+        "practical_examples",
+        "tutorial_requests"
+      ],
+      "date": "2026-07-14",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-39",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "How should we think about the cost at low volume?",
+      "themes": [
+        "cost_questions"
+      ],
+      "date": "2026-07-17",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-40",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Could you compare the trade-offs with a simpler approach?",
+      "themes": [
+        "architecture_explanations"
+      ],
+      "date": "2026-07-20",
+      "source": "Community"
+    },
+    {
+      "id": "comment-41",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "How should we think about the cost at low volume?",
+      "themes": [
+        "cost_questions"
+      ],
+      "date": "2026-08-23",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-42",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Could you compare the trade-offs with a simpler approach?",
+      "themes": [
+        "architecture_explanations"
+      ],
+      "date": "2026-08-26",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-43",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Is there a small implementation example we can try?",
+      "themes": [
+        "practical_examples",
+        "implementation_details"
+      ],
+      "date": "2026-08-04",
+      "source": "Community"
+    },
+    {
+      "id": "comment-44",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Does this integrate with tools we already use?",
+      "themes": [
+        "integration_questions"
+      ],
+      "date": "2026-08-07",
+      "source": "X"
+    },
+    {
+      "id": "comment-45",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Would you share the architecture behind this flow?",
+      "themes": [
+        "architecture_explanations"
+      ],
+      "date": "2026-08-10",
+      "source": "Website"
+    },
+    {
+      "id": "comment-46",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Does this integrate with tools we already use? A concrete example would help our team decide what to try.",
+      "themes": [
+        "integration_questions"
+      ],
+      "date": "2026-08-13",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-47",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Would you share the architecture behind this flow?",
+      "themes": [
+        "architecture_explanations"
+      ],
+      "date": "2026-08-16",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-48",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "What changes when this runs in a production system?",
+      "themes": [
+        "architecture_explanations",
+        "practical_examples"
+      ],
+      "date": "2026-08-19",
+      "source": "Community"
+    },
+    {
+      "id": "comment-49",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Can you show how this works in a real project?",
+      "themes": [
+        "practical_examples",
+        "implementation_details"
+      ],
+      "date": "2026-08-22",
+      "source": "X"
+    },
+    {
+      "id": "comment-50",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Can you break the implementation into a few steps?",
+      "themes": [
+        "implementation_details",
+        "tutorial_requests"
+      ],
+      "date": "2026-08-25",
+      "source": "Website"
+    },
+    {
+      "id": "comment-51",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Can you show how this works in a real project?",
+      "themes": [
+        "practical_examples",
+        "implementation_details"
+      ],
+      "date": "2026-08-03",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-52",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Can you break the implementation into a few steps?",
+      "themes": [
+        "implementation_details",
+        "tutorial_requests"
+      ],
+      "date": "2026-08-06",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-53",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "The concept is useful; a runnable tutorial would be even better.",
+      "themes": [
+        "tutorial_requests",
+        "implementation_details"
+      ],
+      "date": "2026-08-09",
+      "source": "Community"
+    },
+    {
+      "id": "comment-54",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "We need more practical examples for engineering teams.",
+      "themes": [
+        "practical_examples"
+      ],
+      "date": "2026-08-12",
+      "source": "X"
+    },
+    {
+      "id": "comment-55",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Please include a realistic cost breakdown next time. A concrete example would help our team decide what to try.",
+      "themes": [
+        "cost_questions",
+        "practical_examples"
+      ],
+      "date": "2026-08-15",
+      "source": "Website"
+    },
+    {
+      "id": "comment-56",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "We need more practical examples for engineering teams.",
+      "themes": [
+        "practical_examples"
+      ],
+      "date": "2026-08-18",
+      "source": "Blog"
+    },
+    {
+      "id": "comment-57",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Please include a realistic cost breakdown next time.",
+      "themes": [
+        "cost_questions",
+        "practical_examples"
+      ],
+      "date": "2026-08-21",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "comment-58",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "A short tutorial with the setup steps would help.",
+      "themes": [
+        "tutorial_requests",
+        "implementation_details"
+      ],
+      "date": "2026-08-24",
+      "source": "Community"
+    },
+    {
+      "id": "comment-59",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "How much setup is needed before the first useful result?",
+      "themes": [
+        "integration_questions",
+        "implementation_details"
+      ],
+      "date": "2026-08-27",
+      "source": "X"
+    },
+    {
+      "id": "comment-60",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "text": "Could you explain how this connects to an existing API?",
+      "themes": [
+        "integration_questions"
+      ],
+      "date": "2026-08-05",
+      "source": "Website"
+    }
+  ],
+  "analyticsSnapshots": [
+    {
+      "id": "analytics-2026-06",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "period": "2026-06",
+      "topThemes": [
+        "product launch",
+        "AI agents"
+      ],
+      "weakThemes": [
+        "feature-only announcements"
+      ],
+      "gaps": [
+        "hands-on implementation examples",
+        "API integration walkthroughs",
+        "architecture diagrams with trade-offs"
+      ]
+    },
+    {
+      "id": "analytics-2026-07",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "period": "2026-07",
+      "topThemes": [
+        "implementation guides",
+        "AI agents",
+        "architecture"
+      ],
+      "weakThemes": [
+        "feature-only announcements"
+      ],
+      "gaps": [
+        "hands-on implementation examples",
+        "API integration walkthroughs",
+        "architecture diagrams with trade-offs"
+      ]
+    },
+    {
+      "id": "analytics-2026-08",
+      "brandId": "northstar-demo-647a2314-71d3-49b3-aeba-4d7c81a610b8",
+      "period": "2026-08",
+      "topThemes": [
+        "implementation guides",
+        "AI agents",
+        "architecture"
+      ],
+      "weakThemes": [
+        "broad product promotion",
+        "feature-only announcements"
+      ],
+      "gaps": [
+        "hands-on implementation examples",
+        "API integration walkthroughs",
+        "architecture diagrams with trade-offs"
+      ]
+    }
+  ]
+}
