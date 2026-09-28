@@ -1,0 +1,635 @@
+[
+  {
+    "id": "comment-01",
+    "brandId": "northstar-labs-demo",
+    "text": "Can you show how this works in a real project? A concrete example would help our team decide what to try.",
+    "themes": [
+      "practical_examples",
+      "implementation_details"
+    ],
+    "date": "2026-06-03",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-02",
+    "brandId": "northstar-labs-demo",
+    "text": "Can you break the implementation into a few steps?",
+    "themes": [
+      "implementation_details",
+      "tutorial_requests"
+    ],
+    "date": "2026-06-06",
+    "source": "Community"
+  },
+  {
+    "id": "comment-03",
+    "brandId": "northstar-labs-demo",
+    "text": "The concept is useful; a runnable tutorial would be even better.",
+    "themes": [
+      "tutorial_requests",
+      "implementation_details"
+    ],
+    "date": "2026-06-09",
+    "source": "X"
+  },
+  {
+    "id": "comment-04",
+    "brandId": "northstar-labs-demo",
+    "text": "We need more practical examples for engineering teams.",
+    "themes": [
+      "practical_examples"
+    ],
+    "date": "2026-06-12",
+    "source": "Website"
+  },
+  {
+    "id": "comment-05",
+    "brandId": "northstar-labs-demo",
+    "text": "Please include a realistic cost breakdown next time.",
+    "themes": [
+      "cost_questions",
+      "practical_examples"
+    ],
+    "date": "2026-06-15",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-06",
+    "brandId": "northstar-labs-demo",
+    "text": "We need more practical examples for engineering teams.",
+    "themes": [
+      "practical_examples"
+    ],
+    "date": "2026-06-18",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-07",
+    "brandId": "northstar-labs-demo",
+    "text": "Please include a realistic cost breakdown next time.",
+    "themes": [
+      "cost_questions",
+      "practical_examples"
+    ],
+    "date": "2026-06-21",
+    "source": "Community"
+  },
+  {
+    "id": "comment-08",
+    "brandId": "northstar-labs-demo",
+    "text": "A short tutorial with the setup steps would help.",
+    "themes": [
+      "tutorial_requests",
+      "implementation_details"
+    ],
+    "date": "2026-06-24",
+    "source": "X"
+  },
+  {
+    "id": "comment-09",
+    "brandId": "northstar-labs-demo",
+    "text": "How much setup is needed before the first useful result?",
+    "themes": [
+      "integration_questions",
+      "implementation_details"
+    ],
+    "date": "2026-06-27",
+    "source": "Website"
+  },
+  {
+    "id": "comment-10",
+    "brandId": "northstar-labs-demo",
+    "text": "Could you explain how this connects to an existing API? A concrete example would help our team decide what to try.",
+    "themes": [
+      "integration_questions"
+    ],
+    "date": "2026-06-05",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-11",
+    "brandId": "northstar-labs-demo",
+    "text": "How much setup is needed before the first useful result?",
+    "themes": [
+      "integration_questions",
+      "implementation_details"
+    ],
+    "date": "2026-06-08",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-12",
+    "brandId": "northstar-labs-demo",
+    "text": "Could you explain how this connects to an existing API?",
+    "themes": [
+      "integration_questions"
+    ],
+    "date": "2026-06-11",
+    "source": "Community"
+  },
+  {
+    "id": "comment-13",
+    "brandId": "northstar-labs-demo",
+    "text": "A worked example would make the idea easier to apply.",
+    "themes": [
+      "practical_examples",
+      "tutorial_requests"
+    ],
+    "date": "2026-06-14",
+    "source": "X"
+  },
+  {
+    "id": "comment-14",
+    "brandId": "northstar-labs-demo",
+    "text": "How should we think about the cost at low volume?",
+    "themes": [
+      "cost_questions"
+    ],
+    "date": "2026-06-17",
+    "source": "Website"
+  },
+  {
+    "id": "comment-15",
+    "brandId": "northstar-labs-demo",
+    "text": "Could you compare the trade-offs with a simpler approach?",
+    "themes": [
+      "architecture_explanations"
+    ],
+    "date": "2026-06-20",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-16",
+    "brandId": "northstar-labs-demo",
+    "text": "How should we think about the cost at low volume?",
+    "themes": [
+      "cost_questions"
+    ],
+    "date": "2026-06-23",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-17",
+    "brandId": "northstar-labs-demo",
+    "text": "Could you compare the trade-offs with a simpler approach?",
+    "themes": [
+      "architecture_explanations"
+    ],
+    "date": "2026-06-26",
+    "source": "Community"
+  },
+  {
+    "id": "comment-18",
+    "brandId": "northstar-labs-demo",
+    "text": "Is there a small implementation example we can try?",
+    "themes": [
+      "practical_examples",
+      "implementation_details"
+    ],
+    "date": "2026-06-04",
+    "source": "X"
+  },
+  {
+    "id": "comment-19",
+    "brandId": "northstar-labs-demo",
+    "text": "Does this integrate with tools we already use? A concrete example would help our team decide what to try.",
+    "themes": [
+      "integration_questions"
+    ],
+    "date": "2026-06-07",
+    "source": "Website"
+  },
+  {
+    "id": "comment-20",
+    "brandId": "northstar-labs-demo",
+    "text": "Would you share the architecture behind this flow?",
+    "themes": [
+      "architecture_explanations"
+    ],
+    "date": "2026-06-10",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-21",
+    "brandId": "northstar-labs-demo",
+    "text": "Does this integrate with tools we already use?",
+    "themes": [
+      "integration_questions"
+    ],
+    "date": "2026-07-13",
+    "source": "X"
+  },
+  {
+    "id": "comment-22",
+    "brandId": "northstar-labs-demo",
+    "text": "Would you share the architecture behind this flow?",
+    "themes": [
+      "architecture_explanations"
+    ],
+    "date": "2026-07-16",
+    "source": "Website"
+  },
+  {
+    "id": "comment-23",
+    "brandId": "northstar-labs-demo",
+    "text": "What changes when this runs in a production system?",
+    "themes": [
+      "architecture_explanations",
+      "practical_examples"
+    ],
+    "date": "2026-07-19",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-24",
+    "brandId": "northstar-labs-demo",
+    "text": "Can you show how this works in a real project?",
+    "themes": [
+      "practical_examples",
+      "implementation_details"
+    ],
+    "date": "2026-07-22",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-25",
+    "brandId": "northstar-labs-demo",
+    "text": "Can you break the implementation into a few steps?",
+    "themes": [
+      "implementation_details",
+      "tutorial_requests"
+    ],
+    "date": "2026-07-25",
+    "source": "Community"
+  },
+  {
+    "id": "comment-26",
+    "brandId": "northstar-labs-demo",
+    "text": "Can you show how this works in a real project?",
+    "themes": [
+      "practical_examples",
+      "implementation_details"
+    ],
+    "date": "2026-07-03",
+    "source": "X"
+  },
+  {
+    "id": "comment-27",
+    "brandId": "northstar-labs-demo",
+    "text": "Can you break the implementation into a few steps?",
+    "themes": [
+      "implementation_details",
+      "tutorial_requests"
+    ],
+    "date": "2026-07-06",
+    "source": "Website"
+  },
+  {
+    "id": "comment-28",
+    "brandId": "northstar-labs-demo",
+    "text": "The concept is useful; a runnable tutorial would be even better. A concrete example would help our team decide what to try.",
+    "themes": [
+      "tutorial_requests",
+      "implementation_details"
+    ],
+    "date": "2026-07-09",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-29",
+    "brandId": "northstar-labs-demo",
+    "text": "We need more practical examples for engineering teams.",
+    "themes": [
+      "practical_examples"
+    ],
+    "date": "2026-07-12",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-30",
+    "brandId": "northstar-labs-demo",
+    "text": "Please include a realistic cost breakdown next time.",
+    "themes": [
+      "cost_questions",
+      "practical_examples"
+    ],
+    "date": "2026-07-15",
+    "source": "Community"
+  },
+  {
+    "id": "comment-31",
+    "brandId": "northstar-labs-demo",
+    "text": "We need more practical examples for engineering teams.",
+    "themes": [
+      "practical_examples"
+    ],
+    "date": "2026-07-18",
+    "source": "X"
+  },
+  {
+    "id": "comment-32",
+    "brandId": "northstar-labs-demo",
+    "text": "Please include a realistic cost breakdown next time.",
+    "themes": [
+      "cost_questions",
+      "practical_examples"
+    ],
+    "date": "2026-07-21",
+    "source": "Website"
+  },
+  {
+    "id": "comment-33",
+    "brandId": "northstar-labs-demo",
+    "text": "A short tutorial with the setup steps would help.",
+    "themes": [
+      "tutorial_requests",
+      "implementation_details"
+    ],
+    "date": "2026-07-24",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-34",
+    "brandId": "northstar-labs-demo",
+    "text": "How much setup is needed before the first useful result?",
+    "themes": [
+      "integration_questions",
+      "implementation_details"
+    ],
+    "date": "2026-07-27",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-35",
+    "brandId": "northstar-labs-demo",
+    "text": "Could you explain how this connects to an existing API?",
+    "themes": [
+      "integration_questions"
+    ],
+    "date": "2026-07-05",
+    "source": "Community"
+  },
+  {
+    "id": "comment-36",
+    "brandId": "northstar-labs-demo",
+    "text": "How much setup is needed before the first useful result?",
+    "themes": [
+      "integration_questions",
+      "implementation_details"
+    ],
+    "date": "2026-07-08",
+    "source": "X"
+  },
+  {
+    "id": "comment-37",
+    "brandId": "northstar-labs-demo",
+    "text": "Could you explain how this connects to an existing API? A concrete example would help our team decide what to try.",
+    "themes": [
+      "integration_questions"
+    ],
+    "date": "2026-07-11",
+    "source": "Website"
+  },
+  {
+    "id": "comment-38",
+    "brandId": "northstar-labs-demo",
+    "text": "A worked example would make the idea easier to apply.",
+    "themes": [
+      "practical_examples",
+      "tutorial_requests"
+    ],
+    "date": "2026-07-14",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-39",
+    "brandId": "northstar-labs-demo",
+    "text": "How should we think about the cost at low volume?",
+    "themes": [
+      "cost_questions"
+    ],
+    "date": "2026-07-17",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-40",
+    "brandId": "northstar-labs-demo",
+    "text": "Could you compare the trade-offs with a simpler approach?",
+    "themes": [
+      "architecture_explanations"
+    ],
+    "date": "2026-07-20",
+    "source": "Community"
+  },
+  {
+    "id": "comment-41",
+    "brandId": "northstar-labs-demo",
+    "text": "How should we think about the cost at low volume?",
+    "themes": [
+      "cost_questions"
+    ],
+    "date": "2026-08-23",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-42",
+    "brandId": "northstar-labs-demo",
+    "text": "Could you compare the trade-offs with a simpler approach?",
+    "themes": [
+      "architecture_explanations"
+    ],
+    "date": "2026-08-26",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-43",
+    "brandId": "northstar-labs-demo",
+    "text": "Is there a small implementation example we can try?",
+    "themes": [
+      "practical_examples",
+      "implementation_details"
+    ],
+    "date": "2026-08-04",
+    "source": "Community"
+  },
+  {
+    "id": "comment-44",
+    "brandId": "northstar-labs-demo",
+    "text": "Does this integrate with tools we already use?",
+    "themes": [
+      "integration_questions"
+    ],
+    "date": "2026-08-07",
+    "source": "X"
+  },
+  {
+    "id": "comment-45",
+    "brandId": "northstar-labs-demo",
+    "text": "Would you share the architecture behind this flow?",
+    "themes": [
+      "architecture_explanations"
+    ],
+    "date": "2026-08-10",
+    "source": "Website"
+  },
+  {
+    "id": "comment-46",
+    "brandId": "northstar-labs-demo",
+    "text": "Does this integrate with tools we already use? A concrete example would help our team decide what to try.",
+    "themes": [
+      "integration_questions"
+    ],
+    "date": "2026-08-13",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-47",
+    "brandId": "northstar-labs-demo",
+    "text": "Would you share the architecture behind this flow?",
+    "themes": [
+      "architecture_explanations"
+    ],
+    "date": "2026-08-16",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-48",
+    "brandId": "northstar-labs-demo",
+    "text": "What changes when this runs in a production system?",
+    "themes": [
+      "architecture_explanations",
+      "practical_examples"
+    ],
+    "date": "2026-08-19",
+    "source": "Community"
+  },
+  {
+    "id": "comment-49",
+    "brandId": "northstar-labs-demo",
+    "text": "Can you show how this works in a real project?",
+    "themes": [
+      "practical_examples",
+      "implementation_details"
+    ],
+    "date": "2026-08-22",
+    "source": "X"
+  },
+  {
+    "id": "comment-50",
+    "brandId": "northstar-labs-demo",
+    "text": "Can you break the implementation into a few steps?",
+    "themes": [
+      "implementation_details",
+      "tutorial_requests"
+    ],
+    "date": "2026-08-25",
+    "source": "Website"
+  },
+  {
+    "id": "comment-51",
+    "brandId": "northstar-labs-demo",
+    "text": "Can you show how this works in a real project?",
+    "themes": [
+      "practical_examples",
+      "implementation_details"
+    ],
+    "date": "2026-08-03",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-52",
+    "brandId": "northstar-labs-demo",
+    "text": "Can you break the implementation into a few steps?",
+    "themes": [
+      "implementation_details",
+      "tutorial_requests"
+    ],
+    "date": "2026-08-06",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-53",
+    "brandId": "northstar-labs-demo",
+    "text": "The concept is useful; a runnable tutorial would be even better.",
+    "themes": [
+      "tutorial_requests",
+      "implementation_details"
+    ],
+    "date": "2026-08-09",
+    "source": "Community"
+  },
+  {
+    "id": "comment-54",
+    "brandId": "northstar-labs-demo",
+    "text": "We need more practical examples for engineering teams.",
+    "themes": [
+      "practical_examples"
+    ],
+    "date": "2026-08-12",
+    "source": "X"
+  },
+  {
+    "id": "comment-55",
+    "brandId": "northstar-labs-demo",
+    "text": "Please include a realistic cost breakdown next time. A concrete example would help our team decide what to try.",
+    "themes": [
+      "cost_questions",
+      "practical_examples"
+    ],
+    "date": "2026-08-15",
+    "source": "Website"
+  },
+  {
+    "id": "comment-56",
+    "brandId": "northstar-labs-demo",
+    "text": "We need more practical examples for engineering teams.",
+    "themes": [
+      "practical_examples"
+    ],
+    "date": "2026-08-18",
+    "source": "Blog"
+  },
+  {
+    "id": "comment-57",
+    "brandId": "northstar-labs-demo",
+    "text": "Please include a realistic cost breakdown next time.",
+    "themes": [
+      "cost_questions",
+      "practical_examples"
+    ],
+    "date": "2026-08-21",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "comment-58",
+    "brandId": "northstar-labs-demo",
+    "text": "A short tutorial with the setup steps would help.",
+    "themes": [
+      "tutorial_requests",
+      "implementation_details"
+    ],
+    "date": "2026-08-24",
+    "source": "Community"
+  },
+  {
+    "id": "comment-59",
+    "brandId": "northstar-labs-demo",
+    "text": "How much setup is needed before the first useful result?",
+    "themes": [
+      "integration_questions",
+      "implementation_details"
+    ],
+    "date": "2026-08-27",
+    "source": "X"
+  },
+  {
+    "id": "comment-60",
+    "brandId": "northstar-labs-demo",
+    "text": "Could you explain how this connects to an existing API?",
+    "themes": [
+      "integration_questions"
+    ],
+    "date": "2026-08-05",
+    "source": "Website"
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "name": "content-intelligence-agent-memory",
+  "name": "content-intelligence-agent",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -8,19 +8,76 @@
     "node": "24.21.0"
   },
   "scripts": {
+    "dev": "concurrently -k -n api,web -c cyan,magenta \"tsx src/server.ts\" \"vite\"",
+    "dev:web": "vite",
+    "server": "tsx src/server.ts",
+    "start": "node server-dist/server.js",
+    "build": "node node_modules/prisma/build/index.js generate && node node_modules/typescript/bin/tsc --noEmit && node node_modules/vite/bin/vite.js build && node node_modules/typescript/bin/tsc -p tsconfig.server.json",
+    "build:server": "node node_modules/typescript/bin/tsc -p tsconfig.server.json",
+    "preview": "vite preview",
     "memory:smoke": "tsx src/memory/__tests__/hindsightRoundTrip.ts",
     "memory:verify-adaptation": "tsx src/memory/__tests__/hindsightFeedbackAdaptation.ts",
     "memory:verify-metrics-history": "tsx src/memory/__tests__/hindsightMetricHistory.ts",
     "memory:test-versioning": "tsx src/memory/__tests__/memoryVersioning.ts",
-    "typecheck": "tsc --noEmit"
+    "api:smoke": "tsx scripts/api-smoke.ts",
+    "typecheck": "node node_modules/prisma/build/index.js generate && node node_modules/typescript/bin/tsc --noEmit && node node_modules/typescript/bin/tsc -p tsconfig.server.json --noEmit",
+    "db:generate": "node node_modules/prisma/build/index.js generate",
+    "db:validate": "node node_modules/prisma/build/index.js validate",
+    "db:migrate": "node node_modules/prisma/build/index.js migrate deploy",
+    "db:migrate:dev": "node node_modules/prisma/build/index.js migrate dev",
+    "seed": "tsx scripts/seed.ts",
+    "seed:reset": "tsx scripts/seed.ts --reset",
+    "seed:feedback": "tsx scripts/seedFeedback.ts",
+    "demo": "tsx scripts/demo.ts",
+    "dataset:generate": "tsx scripts/generateDataset.ts",
+    "dataset:validate": "tsx scripts/validateDataset.ts",
+    "test:seed-idempotency": "tsx scripts/verifySeedIdempotency.ts",
+    "test:agent": "node --import tsx --test src/services/__tests__/agentService.test.ts",
+    "test": "node node_modules/prisma/build/index.js validate && node node_modules/tsx/dist/cli.mjs scripts/validateDataset.ts && node node_modules/tsx/dist/cli.mjs scripts/verifySeedIdempotency.ts && node --import tsx --test src/services/__tests__/agentService.test.ts"
   },
   "dependencies": {
+    "@prisma/adapter-pg": "^6.12.0",
+    "@prisma/client": "^6.12.0",
     "@vectorize-io/hindsight-client": "0.10.1",
-    "dotenv": "16.6.1"
+    "axios": "1.20.0",
+    "cors": "^2.8.6",
+    "dotenv": "16.6.1",
+    "express": "5.2.1",
+    "groq-sdk": "^1.6.0",
+    "lucide-react": "1.48.0",
+    "morgan": "^1.12.1",
+    "multer": "2.4.0",
+    "pg": "^8.23.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-router-dom": "7.18.4",
+    "recharts": "3.10.1",
+    "winston": "^3.19.0",
+    "zod": "^4.6.5",
+    "zustand": "5.0.15"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "5.0.6",
+    "@types/morgan": "^1.9.10",
+    "@types/multer": "2.2.0",
     "@types/node": "^22.15.30",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.1.1",
+    "autoprefixer": "10.6.1",
+    "concurrently": "10.0.5",
+    "postcss": "8.5.28",
+    "prisma": "^6.12.0",
+    "tailwindcss": "3.4.19",
     "tsx": "^4.23.15",
-    "typescript": "7.0.2"
+    "typescript": "7.0.2",
+    "vite": "8.3.1"
+  },
+  "allowScripts": {
+    "prisma@6.12.0": true,
+    "@prisma/engines@6.12.0": true,
+    "@prisma/client@6.12.0": true,
+    "esbuild@0.28.2": true
   }
 }

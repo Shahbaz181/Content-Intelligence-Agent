@@ -1,0 +1,26 @@
+[
+  {
+    "id": "decision-01",
+    "brandId": "northstar-labs-demo",
+    "decision": "Shift the editorial mix toward implementation-focused technical education.",
+    "outcome": "Across the synthetic three-month sample, technical posts gained saves and comments while promotional engagement cooled.",
+    "futureImplication": "Keep testing practical walkthroughs and compare their performance by platform.",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "decision-02",
+    "brandId": "northstar-labs-demo",
+    "decision": "Pair product announcements with a clear technical use case.",
+    "outcome": "Promotional posts attracted some clicks but fewer sustained saves than educational posts.",
+    "futureImplication": "Explain the problem solved and show a concrete workflow alongside product news.",
+    "date": "2026-08-27"
+  },
+  {
+    "id": "decision-03",
+    "brandId": "northstar-labs-demo",
+    "decision": "Use recurring audience requests to shape tutorial topics.",
+    "outcome": "Comments repeatedly asked for implementation details, architecture, integrations, and practical examples.",
+    "futureImplication": "Prioritize a tutorial series with runnable examples and explicit trade-offs.",
+    "date": "2026-08-28"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022"],
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "rewriteRelativeImportExtensions": true,
+    "rootDir": "src",
+    "outDir": "server-dist",
+    "strict": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "types": ["node"]
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": [
+    "src/generated",
+    "src/api",
+    "src/components",
+    "src/pages",
+    "src/store",
+    "src/mocks",
+    "src/App.tsx",
+    "src/main.tsx"
+  ]
+}

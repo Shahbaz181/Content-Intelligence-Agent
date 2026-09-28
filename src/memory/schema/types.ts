@@ -130,3 +130,9 @@ export interface MentalModelResult {
   items: string[];
   source: "reflect" | "recall-fallback";
 }
+
+export interface PromptReflection {
+  brandId: string;
+  answer: string;
+  source: "reflect";
+}

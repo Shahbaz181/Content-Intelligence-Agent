@@ -1,0 +1,110 @@
+[
+  {
+    "id": "campaign-01",
+    "brandId": "northstar-labs-demo",
+    "name": "AI Agent Foundations",
+    "description": "Synthetic 2026-06 campaign exploring ai agent foundations across educational and product content.",
+    "startDate": "2026-06-02",
+    "endDate": "2026-06-04",
+    "result": "3 posts recorded 64 saves, 24 comments, and 160 clicks."
+  },
+  {
+    "id": "campaign-02",
+    "brandId": "northstar-labs-demo",
+    "name": "Developer Workflow Notes",
+    "description": "Synthetic 2026-06 campaign exploring developer workflow notes across educational and product content.",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-11",
+    "result": "3 posts recorded 63 saves, 22 comments, and 146 clicks."
+  },
+  {
+    "id": "campaign-03",
+    "brandId": "northstar-labs-demo",
+    "name": "Product Education Sprint",
+    "description": "Synthetic 2026-06 campaign exploring product education sprint across educational and product content.",
+    "startDate": "2026-06-16",
+    "endDate": "2026-06-18",
+    "result": "3 posts recorded 72 saves, 24 comments, and 171 clicks."
+  },
+  {
+    "id": "campaign-04",
+    "brandId": "northstar-labs-demo",
+    "name": "Founder Lessons",
+    "description": "Synthetic 2026-06 campaign exploring founder lessons across educational and product content.",
+    "startDate": "2026-06-23",
+    "endDate": "2026-06-25",
+    "result": "3 posts recorded 61 saves, 21 comments, and 140 clicks."
+  },
+  {
+    "id": "campaign-05",
+    "brandId": "northstar-labs-demo",
+    "name": "Implementation Month",
+    "description": "Synthetic 2026-07 campaign exploring implementation month across educational and product content.",
+    "startDate": "2026-07-02",
+    "endDate": "2026-07-04",
+    "result": "3 posts recorded 114 saves, 36 comments, and 145 clicks."
+  },
+  {
+    "id": "campaign-06",
+    "brandId": "northstar-labs-demo",
+    "name": "API Architecture Series",
+    "description": "Synthetic 2026-07 campaign exploring api architecture series across educational and product content.",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-11",
+    "result": "3 posts recorded 113 saves, 35 comments, and 138 clicks."
+  },
+  {
+    "id": "campaign-07",
+    "brandId": "northstar-labs-demo",
+    "name": "Automation in Practice",
+    "description": "Synthetic 2026-07 campaign exploring automation in practice across educational and product content.",
+    "startDate": "2026-07-16",
+    "endDate": "2026-07-18",
+    "result": "3 posts recorded 121 saves, 39 comments, and 165 clicks."
+  },
+  {
+    "id": "campaign-08",
+    "brandId": "northstar-labs-demo",
+    "name": "Community Learning Lab",
+    "description": "Synthetic 2026-07 campaign exploring community learning lab across educational and product content.",
+    "startDate": "2026-07-23",
+    "endDate": "2026-07-25",
+    "result": "3 posts recorded 111 saves, 34 comments, and 132 clicks."
+  },
+  {
+    "id": "campaign-09",
+    "brandId": "northstar-labs-demo",
+    "name": "Technical Deep Dives",
+    "description": "Synthetic 2026-08 campaign exploring technical deep dives across educational and product content.",
+    "startDate": "2026-08-02",
+    "endDate": "2026-08-04",
+    "result": "3 posts recorded 143 saves, 47 comments, and 130 clicks."
+  },
+  {
+    "id": "campaign-10",
+    "brandId": "northstar-labs-demo",
+    "name": "Product Update Cycle",
+    "description": "Synthetic 2026-08 campaign exploring product update cycle across educational and product content.",
+    "startDate": "2026-08-09",
+    "endDate": "2026-08-11",
+    "result": "3 posts recorded 150 saves, 50 comments, and 147 clicks."
+  },
+  {
+    "id": "campaign-11",
+    "brandId": "northstar-labs-demo",
+    "name": "Practical AI Playbook",
+    "description": "Synthetic 2026-08 campaign exploring practical ai playbook across educational and product content.",
+    "startDate": "2026-08-16",
+    "endDate": "2026-08-18",
+    "result": "3 posts recorded 143 saves, 48 comments, and 125 clicks."
+  },
+  {
+    "id": "campaign-12",
+    "brandId": "northstar-labs-demo",
+    "name": "Build in Public Review",
+    "description": "Synthetic 2026-08 campaign exploring build in public review across educational and product content.",
+    "startDate": "2026-08-23",
+    "endDate": "2026-08-25",
+    "result": "3 posts recorded 152 saves, 51 comments, and 155 clicks."
+  }
+]

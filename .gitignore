@@ -3,3 +3,13 @@ dist/
 .env
 .env.*
 !.env.example
+data/*.json
+!data/README.md
+!data/brand.json
+!data/posts.json
+!data/campaigns.json
+!data/audience-comments.json
+!data/strategic-decisions.json
+!data/analytics-snapshots.json
+src/generated/
+server-dist/
